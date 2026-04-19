@@ -23,10 +23,10 @@ I have tried my best to sort all those problems for you and ordered them as well
      - [UCSanDiegoX's Algorithms and Data Structures](https://www.edx.org/course/data-structures-fundamentals)
 
 ### Array
-| **ID** | **PROBLEM STATEMENT**                                    |  **PROBLEM LINK**           |
-|--------|----------------------------------------------------------|-----------------------------|
-| 1      | Missing number in array                     | [Leetcode](https://leetcode.com/problems/missing-number/) ,  [GFG](https://practice.geeksforgeeks.org/problems/missing-number-in-array/0)           |
-| 2      | Subarray with given sum                     |  [GFG](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)           |
+| **ID** | **PROBLEM STATEMENT**                                    |  **PROBLEM LINK**           | **Status** |
+|--------|----------------------------------------------------------|-----------------------------| ------------ |
+| 1      | Missing number in array                     | [Leetcode](https://leetcode.com/problems/missing-number/) ,  [GFG](https://practice.geeksforgeeks.org/problems/missing-number-in-array/0)           | yes |
+| 2      | Subarray with given sum                     |  [GFG](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0)           | yes |
 | 3     | 2 Sum                |  [LeetCode](https://leetcode.com/problems/two-sum/) , [InterviewBit](https://www.interviewbit.com/problems/2-sum/), [GFG](https://practice.geeksforgeeks.org/problems/key-pair/0) ,         |
 | 4     | Majority Element               |   [LeetCode](https://leetcode.com/problems/majority-element/)  , [InterviewBit](https://www.interviewbit.com/problems/majority-element/) , [GFG](https://practice.geeksforgeeks.org/problems/majority-element/0)      |
 | 5     | Max Consecutive Ones              |        [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) , [InterviewBit](https://www.interviewbit.com/problems/max-continuous-series-of-1s/)     |
@@ -39,8 +39,8 @@ I have tried my best to sort all those problems for you and ordered them as well
 | 12     | First Missing Positive               |   [LeetCode](https://leetcode.com/problems/first-missing-positive/)  , [InterviewBit](https://www.interviewbit.com/problems/first-missing-integer/)      |
 
 ### LinkedList
-| **ID** | **PROBLEM STATEMENT**                                    |  **PROBLEM LINK**           |
-|--------|----------------------------------------------------------|-----------------------------|
+| **ID** | **PROBLEM STATEMENT**                                    |  **PROBLEM LINK**           || **Status** |
+|--------|----------------------------------------------------------|-----------------------------| ------------ |
 | 1      | Find middle element in a linked list                     | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) , [GFG](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)           |
 | 2      | Remove n'th node from end of a linked list          | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) , [InterviewBit](https://www.interviewbit.com/problems/remove-nth-node-from-list-end/)                            |
 | 3      | Intersection Point in Y shaped linked list               | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) , [InterviewBit](https://www.interviewbit.com/problems/intersection-of-linked-lists/)                             |
@@ -59,8 +59,8 @@ I have tried my best to sort all those problems for you and ordered them as well
 | 16     | Add two numbers represented by a linked list             | [LeetCode](https://leetcode.com/problems/add-two-numbers/) , [InterviewBit](https://www.interviewbit.com/problems/add-two-numbers-as-lists/)                                 |
 
 ### Stack
-| **ID** | **PROBLEM STATEMENT**                                    |  **PROBLEM LINK**            |
-|--------|----------------------------------------------------------|------------------------------|
+| **ID** | **PROBLEM STATEMENT**                                    |  **PROBLEM LINK**            | **Status** |
+|--------|----------------------------------------------------------|-----------------------------| ------------ |
 | 1      | Valid Parentheses                                        | [LeetCode](https://leetcode.com/problems/valid-parentheses/)                                                 |
 | 2      | Length of longest valid Parentheses                      | [LeetCode](https://leetcode.com/problems/longest-valid-parentheses/)                                         |
 | 3      | Next Greater Element                                     | [GFG](https://practice.geeksforgeeks.org/problems/next-larger-element/0) , [LeetCode](https://leetcode.com/problems/next-greater-element-ii/)                                           |
@@ -70,8 +70,8 @@ I have tried my best to sort all those problems for you and ordered them as well
 | 7     | Min Stack                                                  | [LeetCode](https://leetcode.com/problems/min-stack/) ,                           [InterviewBit](https://www.interviewbit.com/problems/min-stack/)                                                 |
 
 ### Queue
-| **ID** | **PROBLEM STATEMENT**                                    | **PROBLEM LINK**              |
-|--------|----------------------------------------------------------|-------------------------------|
+| **ID** | **PROBLEM STATEMENT**                                    | **PROBLEM LINK**              | **Status** |
+|--------|----------------------------------------------------------|-----------------------------| ------------ |
 | 1      | Generate binary numbers from 1 to n                      | [GFG](https://www.geeksforgeeks.org/interesting-method-generate-binary-numbers-1-n/)                     |
 | 2      | Minimum time required to rot all Oranges                 | [GFG](https://practice.geeksforgeeks.org/problems/rotten-oranges/0) , [LeetCode](https://leetcode.com/problems/rotting-oranges/)                                     |
 | 3      | First non repeating character in a stream                | [GFG](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0)           |
